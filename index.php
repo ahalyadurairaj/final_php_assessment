@@ -9,7 +9,7 @@
     
     <?php
         // Include the header
-        require_once('./view/header.php');co
+        require_once('./view/header.php');
         // Include the homepage content
         require_once('./view/homepage.php');
 
