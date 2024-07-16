@@ -1,0 +1,20 @@
+.background-image {
+    background-image: url('../src/phpass1.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+   opacity: 0.9;
+}
+.hometext{
+    text-align: center;
+    width: 50%;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
